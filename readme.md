@@ -15,15 +15,15 @@
   it's pretty simple to implement the @font-face rule, and it is possible to add lots of options to extend its
   features.
 
-    @font-face {
-        font-family: DeliciousRoman;
-        src: url(http://www.font-face.com/fonts/delicious/Delicious-Roman.otf);
-        font-weight: 400;
-    }
+      @font-face {
+          font-family: DeliciousRoman;
+          src: url(http://www.font-face.com/fonts/delicious/Delicious-Roman.otf);
+          font-weight: 400;
+      }
 
   then
 
-    p { font-family: DeliciousRoman, sans-serif; }
+      p { font-family: DeliciousRoman, sans-serif; }
 
 + what's the plan for @font-face?
 
