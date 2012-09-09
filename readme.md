@@ -156,6 +156,14 @@ font-face 实现,不能使用 TTF/OTF 字体,需要使用 EOT 字体格式.ios4.
 
 最后,目前国内 WebFonts && WebFont Loader 应用并不是很广泛,如果使用妥当的话,必会拔得头筹.
 
+### Author ###
+
+[xiaomo][7]
+
+[wxm4ever@gmail.com][8]
+
+[wxm4ever@douban][9]
+
 ---------------------------------
 
 [0]: http://www.font-face.com/ 'font-face.com'
@@ -165,3 +173,6 @@ font-face 实现,不能使用 TTF/OTF 字体,需要使用 EOT 字体格式.ios4.
 [4]: https://developers.google.com/webfonts/docs/webfont_loader 'Google WebFont Loader'
 [5]: http://fontforge.org/ 'fontforge'
 [6]: http://fontforge.org/scripting.html#Example 'fontforge scripting'
+[7]: http://wangxiaomo.github.com 'wxm'
+[8]: mailto:wxm4ever@gmail.com
+[9]: http://www.douban.com/people/wxm4ever/ 'wxm@douban'
