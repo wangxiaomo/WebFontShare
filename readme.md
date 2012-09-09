@@ -4,16 +4,16 @@
 
 + what is @font-face?
 
-@font-face is a css rule which allows you to download a particular font from your server to render a webpage 
-if the user hasn't got that font installed. This means that web designers will no longer have to adhere to a 
-particular set of "web safe" fonts that the user has pre-installed on their computer.
+  @font-face is a css rule which allows you to download a particular font from your server to render a webpage 
+  if the user hasn't got that font installed. This means that web designers will no longer have to adhere to a 
+  particular set of "web safe" fonts that the user has pre-installed on their computer.
 
-![what is @font-face](./0.png 'font-face')
+  ![what is @font-face](./0.png 'font-face')
 
 + how do i use @font-face?
 
-it's pretty simple to implement the @font-face rule, and it is possible to add lots of options to extend its
-features.
+  it's pretty simple to implement the @font-face rule, and it is possible to add lots of options to extend its
+  features.
 
     @font-face {
         font-family: DeliciousRoman;
@@ -21,13 +21,13 @@ features.
         font-weight: 400;
     }
 
-then
+  then
 
     p { font-family: DeliciousRoman, sans-serif; }
 
 + what's the plan for @font-face?
 
-the final goal: *an online repository of fonts for use with the css rule @font-face - FREE*
+  the final goal: *an online repository of fonts for use with the css rule @font-face - FREE*
 
 other: [font-face.com][0]
 
