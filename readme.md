@@ -39,7 +39,7 @@ using the Google Web Fonts API.
 + Google WebFonts
 + Google WebFonts API
 
-* Google WebFonts
+###### Google WebFonts ######
 
 [Google Webfonts Store][2] showing *521* font families.
 
@@ -51,7 +51,7 @@ hundreds of free, open-source fonts optimized for web. just 3 quick steps betwee
 + Review
 + Use
 
-* Google WebFonts API
+###### Google WebFonts API ######
 
 ![Google WebFonts API][3] helps you add webfonts to any web page. appling a font is easy:
 *just add a special stylesheet link to your web page, then use the font in a CSS style*
