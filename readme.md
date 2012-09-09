@@ -160,9 +160,7 @@ font-face 实现,不能使用 TTF/OTF 字体,需要使用 EOT 字体格式.ios4.
 
 [xiaomo][7]
 
-[wxm4ever@gmail.com][8]
-
-[wxm4ever@douban][9]
+[wxm4ever@douban][8]
 
 ---------------------------------
 
@@ -174,5 +172,4 @@ font-face 实现,不能使用 TTF/OTF 字体,需要使用 EOT 字体格式.ios4.
 [5]: http://fontforge.org/ 'fontforge'
 [6]: http://fontforge.org/scripting.html#Example 'fontforge scripting'
 [7]: http://wangxiaomo.github.com 'wxm'
-[8]: mailto:wxm4ever@gmail.com
-[9]: http://www.douban.com/people/wxm4ever/ 'wxm@douban'
+[8]: http://www.douban.com/people/wxm4ever/ 'wxm@douban'
