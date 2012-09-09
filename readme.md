@@ -8,7 +8,7 @@
   if the user hasn't got that font installed. This means that web designers will no longer have to adhere to a 
   particular set of "web safe" fonts that the user has pre-installed on their computer.
 
-  ![what is @font-face](./0.png 'font-face')
+  ![what is @font-face](https://raw.github.com/wangxiaomo/WebFontShare/master/0.png 'font-face')
 
 + how do i use @font-face?
 
@@ -43,7 +43,7 @@ using the Google Web Fonts API.
 
 [Google Webfonts Store][2] showing *521* font families.
 
-![Google WebFonts Store](./1.png 'Google WebFonts Store')
+![Google WebFonts Store](https://raw.github.com/wangxiaomo/WebFontShare/master/1.png 'Google WebFonts Store')
 
 hundreds of free, open-source fonts optimized for web. just 3 quick steps between you and a good lookin' website.
 
