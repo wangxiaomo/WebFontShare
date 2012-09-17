@@ -53,7 +53,7 @@ hundreds of free, open-source fonts optimized for web. just 3 quick steps betwee
 
 ###### Google WebFonts API ######
 
-![Google WebFonts API][3] helps you add webfonts to any web page. appling a font is easy:
+[Google WebFonts API][3] helps you add webfonts to any web page. appling a font is easy:
 *just add a special stylesheet link to your web page, then use the font in a CSS style*
 
     <html>
