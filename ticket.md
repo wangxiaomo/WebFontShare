@@ -4,7 +4,7 @@
 
 - Timeline
 
-webfont && webfont loader -> 横向排版 -> hyphen -> mathjax -> 纵向排版 -> 加入图片样式后排版 -> 调优
+  webfont && webfont loader -> 横向排版 -> hyphen -> mathjax -> 纵向排版 -> 加入图片样式后排版 -> 调优
 
 - 实现思路以及遇到的问题
 
